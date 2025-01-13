@@ -13,5 +13,9 @@ El yoga es una práctica que combina posturas físicas, respiración y meditaci�
 2. Realiza posturas como el perro boca abajo, la cobra y el árbol.
 3. Termina con una relajación en Savasana.
 
+## Consejos
+- Escucha a tu cuerpo y no fuerces las posturas.
+- Practica con calma y enfócate en la respiración.
+
 
 
