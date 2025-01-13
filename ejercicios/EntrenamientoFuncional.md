@@ -8,6 +8,13 @@ El entrenamiento funcional consiste en ejercicios que simulan movimientos cotidi
 - Aumenta la fuerza y la estabilidad.
 - Previene lesiones al mejorar la movilidad.
 
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza ejercicios como sentadillas, planchas y burpees.
+3. Termina con estiramientos para liberar la tensión muscular.
+
+
+
 
 
 
