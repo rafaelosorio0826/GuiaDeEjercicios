@@ -13,4 +13,8 @@ El Pilates es un método de ejercicio que se enfoca en el control del cuerpo, la
 2. Realiza ejercicios como el "Hundimiento de la espalda" o el "Cien".
 3. Termina con estiramientos para relajarte.
 
+## Consejos
+- Mantén siempre el control en los movimientos.
+- Enfócate en la respiración y la estabilidad del core.
+
 
