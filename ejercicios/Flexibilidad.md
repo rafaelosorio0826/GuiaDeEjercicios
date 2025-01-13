@@ -13,5 +13,9 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento y reducen
 2. Practica estiramientos estáticos o dinámicos de 20-30 segundos por cada músculo.
 3. Termina con un enfriamiento para relajar los músculos.
 
+## Consejos
+- Evita forzar los estiramientos.
+- Respira profundamente durante los estiramientos.
+
 
 
