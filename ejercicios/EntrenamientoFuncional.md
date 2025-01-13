@@ -13,6 +13,10 @@ El entrenamiento funcional consiste en ejercicios que simulan movimientos cotidi
 2. Realiza ejercicios como sentadillas, planchas y burpees.
 3. Termina con estiramientos para liberar la tensión muscular.
 
+## Consejos
+- Mantén una buena postura durante los ejercicios.
+- Realiza los movimientos de manera controlada.
+
 
 
 
