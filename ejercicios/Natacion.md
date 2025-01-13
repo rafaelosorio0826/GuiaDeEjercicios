@@ -13,4 +13,8 @@ La natación es un ejercicio completo que mejora la resistencia cardiovascular, 
 2. Nada durante 20-30 minutos, alternando entre diferentes estilos (crawl, espalda, pecho).
 3. Termina con un enfriamiento suave y estiramientos.
 
+## Consejos
+- Mantén una respiración controlada y rítmica.
+- Asegúrate de usar la técnica adecuada en cada estilo.
+
 
